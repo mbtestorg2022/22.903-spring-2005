@@ -24,8 +24,45 @@ This course addresses the following areas of photon and neutron scattering spect
 Assignments and Grading
 -----------------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Homeworks | 30% |
-| Mid-term Presentation (An Oral Presentation, 30 Min.) | 35% |
-| Final Paper (Plus an Oral Presentation, 30 min.) | 35%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homeworks
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Mid-term Presentation (An Oral Presentation, 30 Min.)
+{{< tdclose >}}
+{{< tdopen >}}
+35%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Paper (Plus an Oral Presentation, 30 min.)
+{{< tdclose >}}
+{{< tdopen >}}
+35%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
