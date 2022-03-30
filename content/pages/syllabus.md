@@ -12,7 +12,7 @@ Lectures: Arrangement of hours to fit students' requirements.
 Prerequisites
 -------------
 
-A 12 unit graduate course, prerequisite: [22.101](/courses/22-101-applied-nuclear-physics-fall-2006), [22.51](/courses/22-51-quantum-theory-of-radiation-interactions-fall-2012/).
+A 12 unit graduate course, prerequisite: [22.101](/courses/22-101-applied-nuclear-physics-fall-2006), [22.51](/courses/22-51-quantum-theory-of-radiation-interactions-fall-2012).
 
 Description
 -----------
